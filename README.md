@@ -1,1 +1,1 @@
-# MINST-Keras
+# MNIST-Keras
